@@ -1,0 +1,10 @@
+{
+    "name": "dek-cz/coding-standard",
+    "type": "library",
+    "description": "Dek Coding Style",
+    "keywords": ["coding standard", "cs", "coding", "standard", "ruleset", "phpcs", "PHPCodeSniffer", "CodeSniffer", "sniffer"],
+    "require": {
+        "php": "^7.4",
+        "ninjify/qa": "^0.12.1"
+    }
+}
