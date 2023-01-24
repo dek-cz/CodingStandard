@@ -12,6 +12,10 @@
             </property>
         </properties>
     </rule>
+    <rule ref="Generic.WhiteSpace.DisallowTabIndent" />
+    <rule ref="SlevomatCodingStandard">
+        <exclude name="Generic.WhiteSpace.DisallowSpaceIndent" />
+    </rule>
     <!-- netbeans problem format -->
     <rule ref="SlevomatCodingStandard.TypeHints.DeclareStrictTypes">
         <!-- Ignore whitespace requirements for lines occurring before declare(strict_types=1).
