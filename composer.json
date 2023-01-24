@@ -5,6 +5,7 @@
     "keywords": ["coding standard", "cs", "coding", "standard", "ruleset", "phpcs", "PHPCodeSniffer", "CodeSniffer", "sniffer"],
     "require": {
         "php": "^7.4|^8.0",
+        "ninjify/coding-standard": "dev-master",
         "contributte/qa": "^0.3"
     }
 }
