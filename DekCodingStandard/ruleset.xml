@@ -26,7 +26,6 @@
         statement. This causes problems, so we just ignore this error. -->
         <exclude name="SlevomatCodingStandard.TypeHints.DeclareStrictTypes.IncorrectWhitespaceBeforeDeclare"/>
         <properties>
-            <property name="newlinesCountBetweenOpenTagAndDeclare" value="2"/>
             <property name="spacesCountAroundEqualsSign" value="1"/>
             <property name="newlinesCountAfterDeclare" value="2"/>
         </properties>
