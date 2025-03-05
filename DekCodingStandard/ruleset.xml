@@ -27,7 +27,6 @@
         <exclude name="SlevomatCodingStandard.TypeHints.DeclareStrictTypes.IncorrectWhitespaceBeforeDeclare"/>
         <properties>
             <property name="spacesCountAroundEqualsSign" value="1"/>
-            <property name="newlinesCountAfterDeclare" value="2"/>
         </properties>
     </rule>
     <rule ref="PSR2">
